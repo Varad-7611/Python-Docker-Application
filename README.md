@@ -62,7 +62,7 @@ http://<EC2_PUBLIC_IP>
 ```
 
 ---
-###📸 Screenshot
+### 📸 Screenshot
 
 <img width="1068" height="811" alt="Screenshot 2026-01-06 132107" src="https://github.com/user-attachments/assets/d16f899e-f593-4c00-bbbd-6a26902bf9bf" />
 
