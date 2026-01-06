@@ -5,7 +5,7 @@ The application runs inside a Docker container and is accessible through the EC2
 
 ---
 
-###📌 Tech Stack
+### 📌 Tech Stack
 - **Python**
 - **Flask**
 - **Docker**
