@@ -1,4 +1,4 @@
-# 🚀 Flask Application Deployment using Docker on AWS EC2
+## 🚀 Flask Application Deployment using Docker on AWS EC2
 
 This project demonstrates how to build a **simple Flask application**, containerize it using **Docker**, and deploy it on an **AWS EC2 instance**.  
 The application runs inside a Docker container and is accessible through the EC2 public IP.
