@@ -5,7 +5,7 @@ The application runs inside a Docker container and is accessible through the EC2
 
 ---
 
-## 📌 Tech Stack
+# 📌 Tech Stack
 - **Python**
 - **Flask**
 - **Docker**
@@ -14,7 +14,7 @@ The application runs inside a Docker container and is accessible through the EC2
 
 ---
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 Python-Docker-Application/
 │
@@ -27,13 +27,13 @@ Python-Docker-Application/
 
 ---
 
-## 🐍 Flask Application
+# 🐍 Flask Application
 - Flask default port: **5000**
 - The app is configured to run on `0.0.0.0` so it can be accessed from outside the container.
 
 ---
 
-## ⚙️ Deployment Steps on AWS EC2
+# ⚙️ Deployment Steps on AWS EC2
 
 1️⃣ Launch an EC2 Instance
 -OS: Ubuntu
@@ -75,7 +75,7 @@ http://<EC2_PUBLIC_IP>
 ```
 
 ---
-## 📸 Screenshot
+#📸 Screenshot
 
 <img width="1068" height="811" alt="Screenshot 2026-01-06 132107" src="https://github.com/user-attachments/assets/d16f899e-f593-4c00-bbbd-6a26902bf9bf" />
 
