@@ -68,4 +68,7 @@ http://<EC2_PUBLIC_IP>
 
 ---
 
+<img width="1895" height="922" alt="image" src="https://github.com/user-attachments/assets/53b1f9ce-086a-4c0d-8f8b-8657c6270112" />
+
+---
 
